@@ -1,2 +1,0 @@
-# leetcodeExercise
-leetcodeExercise
