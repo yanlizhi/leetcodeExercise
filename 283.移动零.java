@@ -34,6 +34,18 @@ class Solution {
         while (index < nums.length) {
             nums[index++] = 0;
         }
+        // int i = 0;
+        // for (int j = 0; j < nums.length; j++) {
+        //     //只要不为0就往前挪
+        //     if (nums[j] != 0) {
+        //         //i指向的值和j指向的值交换
+        //         int temp = nums[i];
+        //         nums[i] = nums[j];
+        //         nums[j] = temp;
+
+        //         i++;
+        //     }
+        // }
     }
 }
 // @lc code=end
